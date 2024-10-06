@@ -1,5 +1,7 @@
 # Git-5
 
+REMOTE
+
 Voici l'histoire d'un homme qui galère totalement sur ce début de formation.
 Mais étant extremement motivé, il ira au bout de cette fichue formation !
 
